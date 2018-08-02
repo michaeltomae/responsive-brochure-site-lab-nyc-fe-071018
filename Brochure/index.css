@@ -1,11 +1,11 @@
 .aboutme-container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
   width: 100vw;
   grid-template-areas:
-    "banner-img banner-img"
-    "header header";
+    "banner-img banner-img banner-img banner-img"
+    ". header header .";
 }
 
 .header {

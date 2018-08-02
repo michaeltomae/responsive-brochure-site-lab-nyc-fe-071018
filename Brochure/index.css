@@ -1,4 +1,4 @@
 .aboutme-container {
-  display: flex;
+  display: grid;
   flex: 1
 }

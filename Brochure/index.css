@@ -3,8 +3,7 @@
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
   width: 100vw;
-
-grid-template-areas:
+  grid-template-areas:
     "banner-img banner-img"
     "header header";
 }

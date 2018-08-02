@@ -2,5 +2,6 @@
   display: grid;
   grid-template-areas;
     "header header"
+    "section-1 section-2"
     
 }

@@ -1,7 +1,8 @@
 .aboutme-container {
   display: grid;
-  grid-template-areas;
+}
+
+grid-template-areas;
     "header header"
     "section-1 section-2"
     "footer footer"
-}

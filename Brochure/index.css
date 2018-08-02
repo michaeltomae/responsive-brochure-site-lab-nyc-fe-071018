@@ -3,9 +3,9 @@
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
 
-grid-template-areas;
+grid-template-areas:
     "banner-img banner-img"
-    "header header"
+    "header header";
 }
 
 .header {

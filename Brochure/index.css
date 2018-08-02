@@ -4,6 +4,7 @@
   grid-gap: 20px;
 
 grid-template-areas;
+    "banner-img banner-img"
     "header header"
     "section-1 section-2"
     "footer footer"

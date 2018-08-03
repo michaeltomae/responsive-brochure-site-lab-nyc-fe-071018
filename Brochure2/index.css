@@ -10,3 +10,7 @@
   width: 100vw;
   height: 300px;
 }
+
+.trustpilot {
+  flex: 1
+}

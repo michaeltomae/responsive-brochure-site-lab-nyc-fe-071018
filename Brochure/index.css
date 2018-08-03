@@ -23,12 +23,6 @@
   width: 100%;
 }
 
-.introduction {
-  display: inline;
-  padding: 20px;
-}
-
-.test {
-  width: 150px;
-  float: left;
+.intro-container {
+  display: flex;
 }

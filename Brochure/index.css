@@ -26,3 +26,8 @@
 .introduction {
   display: inline-block;
 }
+
+.test {
+  width: 150px;
+  float: left;
+}

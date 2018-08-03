@@ -3,5 +3,6 @@
 .OwningOurFaith {background: green;}
 
 #panels {
+  display: flex;
   height: 50px;
 }
